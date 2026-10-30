@@ -1,11 +1,13 @@
 <p align="center"><img src="assets/logo.png" width="180" alt="NilePhytoDock logo"></p>
-<h1 align="center">NilePhytoDock Studio v1.0.1</h1>
+<h1 align="center">NilePhytoDock Studio v1.0.2</h1>
 <p align="center">Local molecular screening for botanical oil research.</p>
-<p align="center"><a href="https://github.com/ahmedGSoliman99/NilePhytoDock-Studio/releases/download/v1.0.1/NilePhytoDock-v1.0.1-Setup.exe"><img src="assets/download-windows.svg" width="330" alt="Download NilePhytoDock Studio v1.0.1 for Windows"></a></p>
+<p align="center"><a href="https://github.com/ahmedGSoliman99/NilePhytoDock-Studio/releases/download/v1.0.2/NilePhytoDock-v1.0.2-Setup.exe"><img src="assets/download-windows.svg" width="330" alt="Download NilePhytoDock Studio v1.0.2 for Windows"></a></p>
 
 NilePhytoDock Studio brings source-aware botanical profiles, binding-site prediction, docking and molecular interpretation into an English Windows desktop workspace. Calculations run locally with the included scientific engines.
 
 **One setup download.** Python, Qt, Java, P2Rank, Smina and the scientific libraries are included. Install, launch and choose your research output folder.
+
+**v1.0.2 maintenance update:** bounded background work, on-demand molecular views, asynchronous result loading and reliable cancellation/closing. Existing calculations and data are retained.
 
 ## Research capabilities
 
@@ -20,7 +22,7 @@ NilePhytoDock Studio brings source-aware botanical profiles, binding-site predic
 
 ## Inside the application
 
-Actual screenshots from NilePhytoDock Studio v1.0.1 using verification studies; these are not interface mockups.
+Actual screenshots from NilePhytoDock Studio v1.0.2 using verification studies; these are not interface mockups.
 
 ![Oil-focused docking results](assets/oil-results.png)
 ![Complete protein and ligand](assets/3d-viewer.png)
@@ -33,11 +35,11 @@ Actual screenshots from NilePhytoDock Studio v1.0.1 using verification studies; 
 
 Windows 10/11 **x64**; 8 GB RAM recommended; 4 GB free space plus research outputs; a 1366 × 768 or larger display and working graphics drivers recommended. No manual Python, Java or scientific-library installation is required. Internet access is required for optional online PDB retrieval and maintenance. The English user guide is installed in the external **Documentation** folder.
 
-**Current release:** v1.0.1. The first official public release remains v1.0.0. The download is unsigned; use the release checksum to verify it.
+**Current release:** v1.0.2. The first official public release remains v1.0.0. The download is unsigned; use the release checksum to verify it.
 
 ## Developers
 
-**Ahmed G Soliman**  
+**Ahmed G Soliman**<br>
 **Malak Taha**
 
 ## Scientific and licensing notices
